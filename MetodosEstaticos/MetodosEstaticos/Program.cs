@@ -1,28 +1,23 @@
 ﻿using System;
 using System.Globalization;
 
+
 namespace MetodosEstaticos
 {
     class Program
     {
-        static double pi = 3.14;
+   
         static void Main(string[] args)
         {
+            Calculadora Calc = new Calculadora();
             Console.Write("Entre o valor do raio");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            double circ = Circunferencia(raio);
-            double vol = volume(raio);
+            double circ = Calc.Circunferencia(raio);
+            double vol = Calc.volume(raio);
             Console.WriteLine("Circunferencia: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("vol: " + vol.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Pi:  " + pi.ToString());
+            Console.WriteLine("Pi:  " + Calc.pi.ToString());
         }
-        static double Circunferencia(double raio)
-        {
-            return 2.0 * pi * raio;
-        }
-        static double volume (double raio)
-        {
-            return 4.0 / 3.0 * pi * raio * raio * raio;
-        }
+        
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj": {}
+    "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj": {
+    "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj",
+        "projectUniqueName": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj",
         "projectName": "MetodosEstaticos",
-        "projectPath": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj",
+        "projectPath": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos.csproj",
         "packagesPath": "C:\\Users\\janjr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\MetodosEstaticos\\obj\\",
+        "outputPath": "C:\\Projetos\\cursos\\curso_csharp\\MetodosEstaticos\\MetodosEstaticos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janjr\\AppData\\Roaming\\NuGet\\NuGet.Config",
