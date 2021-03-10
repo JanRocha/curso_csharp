@@ -1,0 +1,16 @@
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.exe
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.deps.json
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.runtimeconfig.json
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.runtimeconfig.dev.json
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.dll
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\ref\MetodosEstaticos.dll
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\bin\Debug\net5.0\MetodosEstaticos.pdb
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.csprojAssemblyReference.cache
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.AssemblyInfo.cs
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.dll
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\ref\MetodosEstaticos.dll
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.pdb
+C:\Projetos\cursos\curso_csharp\MetodosEstaticos\MetodosEstaticos\MetodosEstaticos\obj\Debug\net5.0\MetodosEstaticos.genruntimeconfig.cache
