@@ -1,0 +1,16 @@
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.exe
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.deps.json
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.runtimeconfig.json
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.runtimeconfig.dev.json
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.dll
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ref\ConvesorDeMoedas.dll
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\bin\Debug\net5.0\ConvesorDeMoedas.pdb
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.csprojAssemblyReference.cache
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.AssemblyInfoInputs.cache
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.AssemblyInfo.cs
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.dll
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ref\ConvesorDeMoedas.dll
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.pdb
+C:\Projetos\cursos\curso_csharp\ConvesorDeMoedas\obj\Debug\net5.0\ConvesorDeMoedas.genruntimeconfig.cache
