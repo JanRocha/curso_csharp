@@ -16,6 +16,15 @@ namespace Construtores
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
             Produto p = new Produto(nome, preco, quantidade);
+
+            Produto p2 = new Produto();
+
+            Produto P3 = new Produto
+            {
+                Nome = nome,
+                Preco = preco,
+                Quantidade = quantidade
+            };
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
