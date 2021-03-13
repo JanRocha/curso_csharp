@@ -15,18 +15,15 @@ namespace Construtores
 
         public Produto()
         {
-
+            Quantidade = 0;
         }
-        public Produto(String nome, double preco)
+        public Produto(String nome, double preco):this()
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = 0;
         }
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string nome, double preco, int quantidade):this(nome, preco)
         {
-            Nome       = nome;
-            Preco      = preco;
             Quantidade = quantidade;
         }
         public double ValorTotalEmEstoque()
