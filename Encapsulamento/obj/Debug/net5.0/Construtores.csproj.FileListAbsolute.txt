@@ -1,0 +1,16 @@
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.csprojAssemblyReference.cache
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfoInputs.cache
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfo.cs
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.exe
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.deps.json
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.json
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.dev.json
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.dll
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\ref\Construtores.dll
+C:\Projetos\cursos\curso_csharp\Construtores\bin\Debug\net5.0\Construtores.pdb
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.dll
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\ref\Construtores.dll
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.pdb
+C:\Projetos\cursos\curso_csharp\Construtores\obj\Debug\net5.0\Construtores.genruntimeconfig.cache
